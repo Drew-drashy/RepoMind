@@ -1,4 +1,4 @@
-```markdown
+
 # RepoMind 🧠  
 **Context-aware Repository Manager powered by GitHub MCP**
 
@@ -147,4 +147,3 @@ For larger proposals, open a discussion first.
 
 MIT License © 2025 RepoMind Authors
 
-```
