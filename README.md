@@ -1,7 +1,3 @@
-Here’s a polished **`README.md`** you can drop into your project repo right away:
-
----
-
 ```markdown
 # RepoMind 🧠  
 **Context-aware Repository Manager powered by GitHub MCP**
@@ -151,9 +147,4 @@ For larger proposals, open a discussion first.
 
 MIT License © 2025 RepoMind Authors
 
-```
-
----
-
-Would you like me to also generate a **`docker-compose.yml` starter file** for this project (so you can literally spin up RepoMind + GitHub MCP + Codebase MCP + Qdrant + Postgres in one go)?
 ```
